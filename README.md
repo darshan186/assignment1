@@ -31,7 +31,7 @@ The detailed individual control blocks architectural flow diagrams.
 
 Note: I hope docker image is alreday installed in your current system.
 ### Start a docker simulation for the iris platform using PX4 environment & mavros 
-> cd ~drone_ws\
+> cd ~drone_ws/src/assignment1 \
 > sudo ./start_gazebo_host.sh
 
 ### Running rqt_plot to show/generate stability graph.
