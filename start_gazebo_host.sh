@@ -1,0 +1,1 @@
+./run_sim_docker.sh interview /px4/start_gazebo.sh
