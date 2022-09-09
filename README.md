@@ -25,7 +25,7 @@ The detailed individual control blocks architectural flow diagrams.
 ### Build Instructions
 > mkdir -p drone_ws/src\
 > cd drone_ws/src\
-> git clone https://github.com/darshan186/assignmet \
+> git clone https://github.com/darshan186/assignment1 \
 > cd ..\
 > catkin build
 
@@ -48,6 +48,6 @@ Note: I hope docker image is alreday installed in your current system.
 ### Use launch file to run both rqt_plot and assignment code at same time.
 > cd ~drone_ws\
 > souce devel/setup.bash\
-> roslaunch tii_pkg testing.launch
+> roslaunch tii_pkg testing_new.launch
 
 
